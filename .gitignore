@@ -1,0 +1,19 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Misc
+.DS_Store
+*.pem
+.env*
+!.env.example
+
+# TypeScript
+tsconfig.tsbuildinfo
+next-env.d.ts
