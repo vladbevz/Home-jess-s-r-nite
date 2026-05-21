@@ -13,7 +13,7 @@
 - Massage relaxant californien
 - Guidance cartes / pendule
 - Прийом в кабінеті або онлайн (visio)
-- Адреса: 20 rue Parmentier, Nîmes 30000
+- Адреса: 6 rue du Rempart Romain, Nîmes 30900
 
 ## Естетичний напрямок
 **Luxury spiritual wellness** — не містичний хаос, а рафінована духовна практика.

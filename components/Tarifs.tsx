@@ -53,7 +53,7 @@ export default function Tarifs() {
               <p className="font-dm-sans font-light text-champagne/35 text-xs mt-3 leading-relaxed">
                 Du lundi au vendredi — 9h à 19h
                 <br />
-                20 rue Parmentier, Nîmes 30000
+                6 rue du Rempart Romain, Nîmes 30900
               </p>
             </motion.div>
 

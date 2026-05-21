@@ -18,8 +18,8 @@ export default function Footer() {
           <div className="space-y-4">
             <p className="font-dm-sans text-sage/60 text-[10px] tracking-[0.4em] uppercase">Contact</p>
             <div className="space-y-2 font-dm-sans font-light text-champagne/45 text-[13px] leading-relaxed">
-              <p>20 rue Parmentier</p>
-              <p>30000 Nîmes, France</p>
+              <p>6 rue du Rempart Romain</p>
+              <p>30900 Nîmes, France</p>
               <a
                 href="tel:0766797875"
                 className="block text-gold/70 hover:text-gold transition-colors duration-300"
